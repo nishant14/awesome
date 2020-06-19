@@ -36,7 +36,7 @@
 <br>
 
 ## Contents
-
+- [My Own Stuff] (#mystuff)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
@@ -64,6 +64,8 @@
 - [Testing](#testing)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
+## My Stuff
+- [Z-Library](https://b-ok.cc/) - Z Library - find all kinds of technical books!
 
 ## Platforms
 
