@@ -36,7 +36,7 @@
 <br>
 
 ## Contents
-- [My Own Stuff] (#mystuff)
+- [My Own Stuff] (#my-stuff)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
