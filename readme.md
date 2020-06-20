@@ -67,6 +67,7 @@
 ## My Stuff
 - [Z-Library](https://b-ok.cc/) - Z Library - find all kinds of technical books!
 - [ML AI Python Tutorials List](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78) - Collection of useful tutorials.
+- [Create APIs using Flask quickstart](https://github.com/alexmojaki/instant_api) - Github repo to quickly build an API using Flask
 
 ## Platforms
 
